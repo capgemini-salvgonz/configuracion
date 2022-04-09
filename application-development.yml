@@ -5,3 +5,8 @@ aplicacion:
   pais: "mx"
   lenguaje: "en"
 
+testApplication:
+  token: f0c6ab7b-c337-41f8-b80a-eafcd1cc06af
+
+
+
